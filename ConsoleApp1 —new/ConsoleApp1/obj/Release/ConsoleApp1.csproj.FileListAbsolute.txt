@@ -1,0 +1,36 @@
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\System.ValueTuple.dll
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\System.ValueTuple.xml
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 — копия\ConsoleApp1\bin\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\System.ValueTuple.dll
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\bin\Release\System.ValueTuple.xml
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 new\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\System.ValueTuple.dll
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\bin\Release\System.ValueTuple.xml
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\СИШАРП\ConsoleApp1 —new\ConsoleApp1\obj\Release\ConsoleApp1.pdb

@@ -1,0 +1,12 @@
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\obj\Release\ClassLibrary1.csprojAssemblyReference.cache
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 — копия\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\obj\Release\ClassLibrary1.csprojAssemblyReference.cache
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\СИШАРП\ConsoleApp1 —new\ClassLibrary1\obj\Release\ClassLibrary1.pdb

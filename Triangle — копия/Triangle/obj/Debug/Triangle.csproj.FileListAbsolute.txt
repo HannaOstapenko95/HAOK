@@ -1,0 +1,20 @@
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.pdb
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.exe.config
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.exe
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.pdb
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.Form1.resources
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.exe
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.pdb
